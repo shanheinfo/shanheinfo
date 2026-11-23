@@ -17,7 +17,7 @@
 - 💼 **AI + Backend Engineer** at **AsiaInfo Technologies (China)** — backend development in **Java**, building **LLM-powered agents**
 - 🎓 Senior undergraduate majoring in **Network Engineering** at **Guilin University of Electronic Technology (GUET)**
 - 🤖 Working on **AI Agents** — LLM tool calling, agent frameworks, enterprise-grade agent systems
-- ⛳ Love playing **Go** (the board game), and historical games
+- ⚫⚪ Love playing **Go** (the board game), and historical games
 - ⚽ Enjoy playing **football** in my free time
 - 📫 Contact me via: [shanheinfo@163.com](mailto:shanheinfo@163.com) · [shanhel@qq.com](mailto:shanhel@qq.com)
 - 🌐 Blog: [bluewu.cn](http://bluewu.cn/)
